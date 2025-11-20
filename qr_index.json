@@ -1,0 +1,527 @@
+[
+  {
+    "file": "assets/qr/base__login.png",
+    "style": "base",
+    "kind": "login",
+    "route": "matty://login",
+    "name": "login.png"
+  },
+  {
+    "file": "assets/qr/base__register.png",
+    "style": "base",
+    "kind": "register",
+    "route": "matty://register",
+    "name": "register.png"
+  },
+  {
+    "file": "assets/qr/base__dashboard.png",
+    "style": "base",
+    "kind": "dashboard",
+    "route": "matty://dashboard",
+    "name": "dashboard.png"
+  },
+  {
+    "file": "assets/qr/base__styled_login.png",
+    "style": "base",
+    "kind": "login",
+    "route": "matty://login",
+    "name": "styled_login.png"
+  },
+  {
+    "file": "assets/qr/base__styled_register.png",
+    "style": "base",
+    "kind": "register",
+    "route": "matty://register",
+    "name": "styled_register.png"
+  },
+  {
+    "file": "assets/qr/base__styled_dashboard.png",
+    "style": "base",
+    "kind": "dashboard",
+    "route": "matty://dashboard",
+    "name": "styled_dashboard.png"
+  },
+  {
+    "file": "assets/qr/base__login_styled.png",
+    "style": "base",
+    "kind": "login",
+    "route": "matty://login",
+    "name": "login_styled.png"
+  },
+  {
+    "file": "assets/qr/base__register_styled.png",
+    "style": "base",
+    "kind": "register",
+    "route": "matty://register",
+    "name": "register_styled.png"
+  },
+  {
+    "file": "assets/qr/base__dashboard_styled.png",
+    "style": "base",
+    "kind": "dashboard",
+    "route": "matty://dashboard",
+    "name": "dashboard_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_1_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/1",
+    "name": "tip_creator_1_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_2_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/2",
+    "name": "tip_creator_2_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_3_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/3",
+    "name": "tip_creator_3_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_4_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/4",
+    "name": "tip_creator_4_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_5_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/5",
+    "name": "tip_creator_5_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_6_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/6",
+    "name": "tip_creator_6_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_7_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/7",
+    "name": "tip_creator_7_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_8_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/8",
+    "name": "tip_creator_8_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_9_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/9",
+    "name": "tip_creator_9_styled.png"
+  },
+  {
+    "file": "assets/qr/base__tip_creator_10_styled.png",
+    "style": "base",
+    "kind": "creator",
+    "route": "matty://creator/10",
+    "name": "tip_creator_10_styled.png"
+  },
+  {
+    "file": "assets/qr/gold__login_neongoldA.png",
+    "style": "gold",
+    "kind": "login",
+    "route": "matty://login",
+    "name": "login_neongoldA.png"
+  },
+  {
+    "file": "assets/qr/gold__register_neongoldA.png",
+    "style": "gold",
+    "kind": "register",
+    "route": "matty://register",
+    "name": "register_neongoldA.png"
+  },
+  {
+    "file": "assets/qr/gold__dashboard_neongoldA.png",
+    "style": "gold",
+    "kind": "dashboard",
+    "route": "matty://dashboard",
+    "name": "dashboard_neongoldA.png"
+  },
+  {
+    "file": "assets/qr/gold__login_goldA.png",
+    "style": "gold",
+    "kind": "login",
+    "route": "matty://login",
+    "name": "login_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__register_goldA.png",
+    "style": "gold",
+    "kind": "register",
+    "route": "matty://register",
+    "name": "register_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__dashboard_goldA.png",
+    "style": "gold",
+    "kind": "dashboard",
+    "route": "matty://dashboard",
+    "name": "dashboard_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_1_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/1",
+    "name": "creator_1_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_2_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/2",
+    "name": "creator_2_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_3_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/3",
+    "name": "creator_3_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_4_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/4",
+    "name": "creator_4_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_5_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/5",
+    "name": "creator_5_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_6_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/6",
+    "name": "creator_6_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_7_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/7",
+    "name": "creator_7_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_8_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/8",
+    "name": "creator_8_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_9_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/9",
+    "name": "creator_9_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__creator_10_goldA.png",
+    "style": "gold",
+    "kind": "creator",
+    "route": "matty://creator/10",
+    "name": "creator_10_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_1_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/1",
+    "name": "tip_1_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_2_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/2",
+    "name": "tip_2_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_3_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/3",
+    "name": "tip_3_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_4_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/4",
+    "name": "tip_4_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_5_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/5",
+    "name": "tip_5_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_6_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/6",
+    "name": "tip_6_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_7_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/7",
+    "name": "tip_7_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_8_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/8",
+    "name": "tip_8_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_9_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/9",
+    "name": "tip_9_goldA.png"
+  },
+  {
+    "file": "assets/qr/gold__tip_10_goldA.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/10",
+    "name": "tip_10_goldA.png"
+  },
+  {
+    "file": "assets/qr/hologram_gold__login_goldholoB.png",
+    "style": "hologram_gold",
+    "kind": "login",
+    "route": "matty://login",
+    "name": "login_goldholoB.png"
+  },
+  {
+    "file": "assets/qr/hologram_gold__register_goldholoB.png",
+    "style": "hologram_gold",
+    "kind": "register",
+    "route": "matty://register",
+    "name": "register_goldholoB.png"
+  },
+  {
+    "file": "assets/qr/hologram_gold__dashboard_goldholoB.png",
+    "style": "hologram_gold",
+    "kind": "dashboard",
+    "route": "matty://dashboard",
+    "name": "dashboard_goldholoB.png"
+  },
+  {
+    "file": "assets/qr/neon__login_neonB.png",
+    "style": "neon",
+    "kind": "login",
+    "route": "matty://login",
+    "name": "login_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__register_neonB.png",
+    "style": "neon",
+    "kind": "register",
+    "route": "matty://register",
+    "name": "register_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__dashboard_neonB.png",
+    "style": "neon",
+    "kind": "dashboard",
+    "route": "matty://dashboard",
+    "name": "dashboard_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_1_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/1",
+    "name": "creator_1_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_2_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/2",
+    "name": "creator_2_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_3_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/3",
+    "name": "creator_3_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_4_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/4",
+    "name": "creator_4_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_5_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/5",
+    "name": "creator_5_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_6_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/6",
+    "name": "creator_6_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_7_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/7",
+    "name": "creator_7_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_8_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/8",
+    "name": "creator_8_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_9_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/9",
+    "name": "creator_9_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__creator_10_neonB.png",
+    "style": "neon",
+    "kind": "creator",
+    "route": "matty://creator/10",
+    "name": "creator_10_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_1_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/1",
+    "name": "tip_1_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_2_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/2",
+    "name": "tip_2_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_3_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/3",
+    "name": "tip_3_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_4_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/4",
+    "name": "tip_4_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_5_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/5",
+    "name": "tip_5_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_6_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/6",
+    "name": "tip_6_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_7_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/7",
+    "name": "tip_7_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_8_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/8",
+    "name": "tip_8_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_9_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/9",
+    "name": "tip_9_neonB.png"
+  },
+  {
+    "file": "assets/qr/neon__tip_10_neonB.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/10",
+    "name": "tip_10_neonB.png"
+  },
+  {
+    "file": "assets/qr/tip10_gold.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/10",
+    "name": "tip10_gold.png"
+  },
+  {
+    "file": "assets/qr/tip10_neon.png",
+    "style": "neon",
+    "kind": "tip",
+    "route": "matty://tip/10",
+    "name": "tip10_neon.png"
+  },
+  {
+    "file": "assets/qr/tip10_neongold.png",
+    "style": "gold",
+    "kind": "tip",
+    "route": "matty://tip/10",
+    "name": "tip10_neongold.png"
+  },
+  {
+    "file": "assets/qr/tip10_hologram.png",
+    "style": "hologram_gold",
+    "kind": "tip",
+    "route": "matty://tip/10",
+    "name": "tip10_hologram.png"
+  }
+]

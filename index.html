@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Matty QR Vault · V4</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="description" content="Matty QR Vault – Neon & Gold QR codes for creators, tips, and deep links.">
+  <link rel="icon" type="image/png" href="assets/images/matty_logo.png">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div class="app-shell">
+  <nav>
+    <div class="brand">
+      <div class="brand-logo"><span>M</span></div>
+      <div>
+        <div class="brand-text-main">MATTY QR VAULT · V4</div>
+        <div class="brand-text-sub">Deep links · BTC tips · Creator profiles</div>
+      </div>
+    </div>
+    <div class="nav-links">
+      <button class="active" data-filter-kind="all"><span class="dot"></span> All</button>
+      <button data-filter-kind="creator">Creators</button>
+      <button data-filter-kind="tip">Tips</button>
+      <button data-filter-kind="login">Login</button>
+      <button data-filter-kind="register">Register</button>
+      <button data-filter-kind="dashboard">Dashboard</button>
+    </div>
+  </nav>
+
+  <main>
+    <section class="hero">
+      <div class="hero-left">
+        <div class="hero-title">All your Matty QR codes, one vault.</div>
+        <div class="hero-subtitle">
+          Browse, filter, and download production-ready QR codes in gold, neon, and hologram styles.
+          Every code is wired to a <code>matty://</code> deep link for your apps, prints, and campaigns.
+        </div>
+        <div class="hero-tags">
+          <span class="tag-pill">BTC-native tips</span>
+          <span class="tag-pill">Creator deep links</span>
+          <span class="tag-pill">Gold & hologram themes</span>
+          <span class="tag-pill">Ready for Netlify / Vercel</span>
+        </div>
+        <div class="hero-bottom">
+          <div class="hero-bottom-left">
+            <button class="hero-btn-primary" onclick="setFilterKind('creator')">View creator QR set</button>
+            <button class="hero-btn-ghost" onclick="setFilterKind('tip')">Load tip QR set</button>
+          </div>
+          <div style="font-size:11px;color:#aaa;">
+            Tip: click any QR to open it in a new tab, or hit “Download PNG” for print export.
+          </div>
+        </div>
+      </div>
+      <div class="hero-right">
+        <h2>Styles included</h2>
+        <ul class="hero-right-list">
+          <li><span class="bullet"></span> Neon cyberpunk (pink / purple)</li>
+          <li><span class="bullet"></span> Pure gold + hologram gold editions</li>
+          <li><span class="bullet"></span> Creator deep links, tip deep links</li>
+          <li><span class="bullet"></span> Login, register, dashboard flows</li>
+        </ul>
+        <p style="margin-top:12px;">
+          This folder is static-host ready. Drop it on Netlify, Vercel, or any static host and
+          you have a mini Matty QR browser for your team or collaborators.
+        </p>
+      </div>
+    </section>
+
+    <section class="controls">
+      <div class="filters">
+        <button class="filter-chip active" data-filter-style="all">All styles</button>
+        <button class="filter-chip" data-filter-style="base">Base</button>
+        <button class="filter-chip" data-filter-style="gold">Gold</button>
+        <button class="filter-chip" data-filter-style="hologram_gold">Hologram gold</button>
+        <button class="filter-chip" data-filter-style="neon">Neon</button>
+        <button class="filter-chip" data-filter-style="neon_gold">Neon gold</button>
+      </div>
+      <div class="search-box">
+        <input id="search" type="text" placeholder="Search by name or route…">
+        <span>⌕</span>
+      </div>
+    </section>
+
+    <section class="grid">
+      <!-- Cards injected by JS -->
+    </section>
+  </main>
+
+  <footer>
+    Matty V4 QR Vault · Static site export · Ready for Netlify / Vercel or any static hosting.
+  </footer>
+</div>
+<script src="assets/js/main.js"></script>
+</body>
+</html>

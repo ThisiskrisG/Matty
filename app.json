@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "MattyMobile",
+    "slug": "matty-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": null,
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": null,
+      "resizeMode": "contain",
+      "backgroundColor": "#050509"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": null,
+        "backgroundColor": "#050509"
+      }
+    },
+    "web": {
+      "favicon": null
+    }
+  }
+}
